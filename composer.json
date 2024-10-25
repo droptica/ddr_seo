@@ -1,0 +1,24 @@
+{
+    "name": "droptica/ddr_seo",
+    "type": "drupal-recipe",
+    "description": "Droptica’s Drupal Recipes: SEO - Base recipe",
+    "keywords": ["recipe", "Drupal recipes", "Drupal recipe"],
+    "license": "GPL-2.0-or-later",
+    "require": {
+        "drupal/core": ">=10.3",
+        "droptica/ddr_seo_linkchecker": "^1.0",
+        "droptica/ddr_seo_metatag": "^1.0",
+        "droptica/ddr_seo_pathauto": "^1.0",
+        "droptica/ddr_seo_redirect": "^1.0",
+        "droptica/ddr_seo_redirect_404": "^1.0",
+        "droptica/ddr_seo_robots_txt": "^1.0",
+        "droptica/ddr_seo_yoast_seo": "^1.0",
+        "droptica/ddr_seo_xml_sitemap": "^1.0"
+    },
+    "authors": [
+        {
+            "name": "Droptica",
+            "role": "Company"
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+name: 'DDR SEO: Base SEO recipe'
+type: 'Droptica’s Drupal Recipes'
+description: 'Base recipe that contains all SEO recipes.'
+
+recipes:
+  - ddr_seo_linkchecker
+  - ddr_seo_metatag
+  - ddr_seo_pathauto
+  - ddr_seo_redirect
+  - ddr_seo_redirect_404
+  - ddr_seo_robots_txt
+  - ddr_seo_yoast_seo
+  - ddr_seo_xml_sitemap
